@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+    text-align: center;
+  }
+  .savebtn{
+    display: flex; justify-content: center;
+  }
+  td {
+    text-align: left;
+}
